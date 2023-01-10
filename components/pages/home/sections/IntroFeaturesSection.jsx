@@ -18,7 +18,7 @@ const IntroFeaturesSection = () => {
             <Zap size={gap} />
             <Typography variant="intro" gutterTop>Fast AF</Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-              Float is fully native macOS app. It's fast, lightweight and extremely efficient.
+              Float is fully native macOS app. It&apos;s fast, lightweight and extremely efficient.
             </Typography>
           </Stack>
         </GridItem>
@@ -26,10 +26,10 @@ const IntroFeaturesSection = () => {
           <Stack>
             <Lock size={gap} />
             <Typography variant="intro" gutterTop>
-            Privacy. That's Float.
+            Privacy. That&apos;s Float.
             </Typography>
             <Typography variant="intro" style={{ opacity: .5 }}>
-              Unline most browsers. Float doesn't collect user data, and doesn't track you.
+              Unline most browsers. Float doesn&apos;t collect user data, and doesn&apos;t track you.
             </Typography>
           </Stack>
         </GridItem>
